@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yuridapaz
+- 👀 I’m interested in ... Front-end Development
+- 🌱 I’m currently learning ... React and Futter
