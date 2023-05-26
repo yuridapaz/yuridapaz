@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Simonin</h1>
 <h3 align="center">Frontend Developer from Brazil</h3>
 
--  I’m currently learning ** React Native **
+-  I’m currently learning **React Native**
 
 - 👨💻 All of my projects are available at [https://github.com/yuridapaz](https://github.com/yuridapaz)
 
