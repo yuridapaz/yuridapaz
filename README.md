@@ -3,7 +3,7 @@
 
 -  I’m currently learning **React Native**
 
-- 👨💻 All of my projects are available at [https://github.com/yuridapaz](https://github.com/yuridapaz)
+-  All of my projects are available at [https://github.com/yuridapaz](https://github.com/yuridapaz)
 
 -  How to reach me **yuridapaz@gmail.com**
 
