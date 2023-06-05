@@ -15,5 +15,5 @@
 
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuridapaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuridapaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
